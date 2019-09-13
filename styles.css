@@ -1,0 +1,198 @@
+.topbox{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 115px;
+    width: 370px;
+    margin-top:  150px;
+    margin-left: 300px; 
+    background-color:red;
+}
+.toptext{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 31px;
+    width: 90px;
+    margin-top:  5px;
+    margin-left: 5px; 
+    background-color:yellow;
+}
+.middletext{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 31px;
+    width: 351px;
+    margin-top:  5px;
+    margin-left: 5px; 
+    background-color:yellow;
+}
+.bottomtext{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 31px;
+    width: 166px;
+    margin-top:  5px;
+    margin-left: 5px; 
+    background-color:yellow;
+}
+.worldmap{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 785px;
+    width: 1500px;
+    margin-top:  150px;
+    margin-left: 300px; 
+    background-color:red;
+}
+.logo{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 61px;
+    width: 144px;
+    margin-top:  5px;
+    margin-left: 5px; 
+    background-color:yellow;
+}
+.tower{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 43px;
+    width: 774px;
+    margin-top:  -90px;
+    margin-left: 400px; 
+    background-color:yellow;
+}
+.ooo{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 61px;
+    width: 141px;
+    margin-top:  -125px;
+    margin-left: 1300px; 
+    background-color:yellow;
+}
+.textwall{
+    display: grid;
+    grid-template-columns: 140px;
+    height:209px;
+    width: 88px;
+    margin-top:  390px;
+    margin-left: 10px; 
+    background-color:yellow;
+}
+.infections{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 42px;
+    width: 1006px;
+    margin-top:  0px;
+    margin-left: 500px; 
+    background-color:red;
+}
+.balance{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 41px;
+    width: 182px;
+    margin-top:  0px;
+    margin-left: 15px; 
+    background-color:yellow;
+}
+.glory{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 41px;
+    width: 190px;
+    margin-top:  -140px;
+    margin-left: 215px; 
+    background-color:yellow;
+}
+.splender{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 41px;
+    width: 200px;
+    margin-top:  -140px;
+    margin-left: 515px; 
+    background-color:yellow;
+}
+.fortatude{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 41px;
+    width: 300px;
+    margin-top:  -140px;
+    margin-left: 775px; 
+    background-color:yellow;
+}
+.graph{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 430px;
+    width: 558px;
+    margin-top:  25px;
+    margin-left: 350px; 
+    background-color:red;
+}
+.picture{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 321px;
+    width: 258px;
+    margin-top:  10px;
+    margin-left: 120px; 
+    background-color:yellow;
+}
+.smoltxt{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 121px;
+    width: 74px;
+    margin-top:  -90px;
+    margin-left: 369px; 
+    background-color:yellow;
+}
+.add{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 164px;
+    width: 309px;
+    margin-top:  50px;
+    margin-left: 850px; 
+    background-color:red;
+}
+.info{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 52px;
+    width: 290px;
+    margin-top:  100px;
+    margin-left: 0px; 
+    background-color:yellow;
+}
+.owlsector{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 337px;
+    width: 951px;
+    margin-top:  -600px;
+    margin-left: 1150px; 
+    background-color:red;
+}
+.pic{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 304px;
+    width: 350px;
+    margin-top:  15px;
+    margin-left: 0px; 
+    background-color:yellow;
+}
+.tx{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 47px;
+    width: 126px;
+    margin-top:  80px;
+    margin-left: 350px; 
+    background-color:yellow;
+}
